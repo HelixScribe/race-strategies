@@ -1,0 +1,114 @@
+{
+  "target_time": "04:00:00",
+  "target_pace": "09:09 per mile",
+  "segments": [
+    {
+      "segment": 1,
+      "segmentdistance_miles": "3",
+      "segmentdistance_km": "4.8",
+      "distancetogo_miles": "23.2",
+      "distancetogo_km": "37.3",
+      "pace": "09:10 per mile",
+      "effort_level": "Steady",
+      "mental_focus": "Keep calm",
+      "extra_info": "Watch out for early excitements. Begin fueling within the first 30-45 minutes, even if you don’t feel hungry yet. Hydrate at the first aid station (6-10 oz).",
+      "image_url": ""
+    },
+    {
+      "segment": 2,
+      "segmentdistance_miles": "3",
+      "segmentdistance_km": "4.8",
+      "distancetogo_miles": "20.2",
+      "distancetogo_km": "32.5",
+      "pace": "09:09 per mile",
+      "effort_level": "Controlled",
+      "mental_focus": "Settle into rhythm",
+      "extra_info": "Check breathing and form. Continue fueling every 20-40 minutes. Alternate fuel types, ensuring gels are taken with water, not sports drinks.",
+      "image_url": ""
+    },
+    {
+      "segment": 3,
+      "segmentdistance_miles": "3",
+      "segmentdistance_km": "4.8",
+      "distancetogo_miles": "17.2",
+      "distancetogo_km": "27.7",
+      "pace": "09:09 per mile",
+      "effort_level": "Comfortable",
+      "mental_focus": "Focus on efficiency",
+      "extra_info": "Hydration reminder: Take in fluids at every aid station. Monitor your body’s response to fueling and adjust if necessary.",
+      "image_url": ""
+    },
+    {
+      "segment": 4,
+      "segmentdistance_miles": "3",
+      "segmentdistance_km": "4.8",
+      "distancetogo_miles": "14.2",
+      "distancetogo_km": "22.9",
+      "pace": "09:09 per mile",
+      "effort_level": "Consistent",
+      "mental_focus": "Check posture",
+      "extra_info": "Take nutrition if needed. Practice alternating fuel types to avoid digestive issues. Increase carbohydrate intake slightly as the race progresses.",
+      "image_url": ""
+    },
+    {
+      "segment": 5,
+      "segmentdistance_miles": "3",
+      "segmentdistance_km": "4.8",
+      "distancetogo_miles": "11.2",
+      "distancetogo_km": "18.1",
+      "pace": "09:08 per mile",
+      "effort_level": "Slightly Increased",
+      "mental_focus": "Stay relaxed",
+      "extra_info": "Maintain hydration. Adjust fueling frequency to every 20-30 minutes if running faster or feeling depleted.",
+      "image_url": ""
+    },
+    {
+      "segment": 6,
+      "segmentdistance_miles": "3",
+      "segmentdistance_km": "4.8",
+      "distancetogo_miles": "8.2",
+      "distancetogo_km": "13.2",
+      "pace": "09:08 per mile",
+      "effort_level": "Sustained",
+      "mental_focus": "Prepare for mental challenges",
+      "extra_info": "Focus on steady breathing. Consume gels with water, and consider slightly increasing carbohydrate intake after the 3-hour mark.",
+      "image_url": ""
+    },
+    {
+      "segment": 7,
+      "segmentdistance_miles": "3",
+      "segmentdistance_km": "4.8",
+      "distancetogo_miles": "5.2",
+      "distancetogo_km": "8.4",
+      "pace": "09:07 per mile",
+      "effort_level": "Strong",
+      "mental_focus": "Push through fatigue",
+      "extra_info": "Visualise the finish. Continue fueling as needed, but focus on hydration to prevent fatigue.",
+      "image_url": ""
+    },
+    {
+      "segment": 8,
+      "segmentdistance_miles": "3",
+      "segmentdistance_km": "4.8",
+      "distancetogo_miles": "2.2",
+      "distancetogo_km": "3.6",
+      "pace": "09:05 per mile",
+      "effort_level": "Determined",
+      "mental_focus": "Stay focused",
+      "extra_info": "Dig deep. Stay hydrated, and use mental cues to keep pace. Avoid over-consuming carbohydrates this close to the end.",
+      "image_url": ""
+    },
+    {
+      "segment": 9,
+      "segmentdistance_miles": "2.2",
+      "segmentdistance_km": "3.6",
+      "distancetogo_miles": "0",
+      "distancetogo_km": "0",
+      "pace": "09:00 per mile",
+      "effort_level": "All-Out",
+      "mental_focus": "Finish strong",
+      "extra_info": "Soak in the moment! Focus on your effort, and ensure proper hydration at the finish line.",
+      "image_url": ""
+    }
+  ]
+}

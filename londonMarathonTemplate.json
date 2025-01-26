@@ -1,0 +1,114 @@
+{
+  "target_time": "04:00:00",
+  "target_pace": "09:09 per mile",
+  "segments": [
+    {
+      "segment": 1,
+      "segmentdistance_miles": "3",
+      "segmentdistance_km": "4.8",
+      "distancetogo_miles": "23.2",
+      "distancetogo_km": "37.3",
+      "pace": "09:10 per mile",
+      "effort_level": "Steady",
+      "mental_focus": "Keep calm",
+      "extra_info": "The race starts in Blackheath, passing through Charlton and converging routes in Woolwich. Watch out for early excitement; maintain a steady pace.",
+      "image_url": ""
+    },
+    {
+      "segment": 2,
+      "segmentdistance_miles": "3",
+      "segmentdistance_km": "4.8",
+      "distancetogo_miles": "20.2",
+      "distancetogo_km": "32.5",
+      "pace": "09:09 per mile",
+      "effort_level": "Controlled",
+      "mental_focus": "Settle into rhythm",
+      "extra_info": "Passing the Old Royal Naval College and approaching the Cutty Sark in Greenwich. Check your breathing and form.",
+      "image_url": ""
+    },
+    {
+      "segment": 3,
+      "segmentdistance_miles": "3",
+      "segmentdistance_km": "4.8",
+      "distancetogo_miles": "17.2",
+      "distancetogo_km": "27.7",
+      "pace": "09:09 per mile",
+      "effort_level": "Keep your pace comfortable. Focus on building momentum and your rhythm.",
+      "mental_focus": "Focus on efficiency",
+      "extra_info": "Running through Deptford and Surrey Quays, heading towards Bermondsey. Remember to hydrate.",
+      "image_url": ""
+    },
+    {
+      "segment": 4,
+      "segmentdistance_miles": "3",
+      "segmentdistance_km": "4.8",
+      "distancetogo_miles": "14.2",
+      "distancetogo_km": "22.9",
+      "pace": "09:09 per mile",
+      "effort_level": "Consistent",
+      "mental_focus": "Check posture",
+      "extra_info": "Crossing Tower Bridge, a significant landmark at the halfway point. Take nutrition if needed.",
+      "image_url": ""
+    },
+    {
+      "segment": 5,
+      "segmentdistance_miles": "3",
+      "segmentdistance_km": "4.8",
+      "distancetogo_miles": "11.2",
+      "distancetogo_km": "18.1",
+      "pace": "09:08 per mile",
+      "effort_level": "Slightly Increased",
+      "mental_focus": "Stay relaxed",
+      "extra_info": "Heading east through Wapping towards Limehouse and into the Isle of Dogs. Maintain hydration.",
+      "image_url": ""
+    },
+    {
+      "segment": 6,
+      "segmentdistance_miles": "3",
+      "segmentdistance_km": "4.8",
+      "distancetogo_miles": "8.2",
+      "distancetogo_km": "13.2",
+      "pace": "09:08 per mile",
+      "effort_level": "Sustained",
+      "mental_focus": "Prepare for mental challenges ahead. It's easy to forget, but steady breathing is key. Try breathing in a 2:1 ratio - in for 2 steps, out for 1",
+      "extra_info": "Navigating through Canary Wharf, with twists and turns. Focus on steady breathing.",
+      "image_url": ""
+    },
+    {
+      "segment": 7,
+      "segmentdistance_miles": "3",
+      "segmentdistance_km": "4.8",
+      "distancetogo_miles": "5.2",
+      "distancetogo_km": "8.4",
+      "pace": "09:07 per mile",
+      "effort_level": "Strong",
+      "mental_focus": "Push through fatigue",
+      "extra_info": "Returning west through Poplar and Limehouse, rejoining The Highway. Visualise the finish.",
+      "image_url": ""
+    },
+    {
+      "segment": 8,
+      "segmentdistance_miles": "3",
+      "segmentdistance_km": "4.8",
+      "distancetogo_miles": "2.2",
+      "distancetogo_km": "3.6",
+      "pace": "09:05 per mile",
+      "effort_level": "Determined",
+      "mental_focus": "Stay focused",
+      "extra_info": "Passing the Tower of London, moving along the Embankment. Dig deep.",
+      "image_url": ""
+    },
+    {
+      "segment": 9,
+      "segmentdistance_miles": "2.2",
+      "segmentdistance_km": "3.6",
+      "distancetogo_miles": "0",
+      "distancetogo_km": "0",
+      "pace": "09:00 per mile",
+      "effort_level": "All-Out",
+      "mental_focus": "Prepare for your finish line photo on The Mall!",
+      "extra_info": "Final stretch through Birdcage Walk, with views of Big Ben and Buckingham Palace. This is a busy area with loads of people in the crowd and more charity cheer stations. Soak in the moment!",
+      "image_url": ""
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+    "target_time": "04:00:00",
+    "target_pace": "09:09 per mile",
+    "segments": [
+      {
+        "segment": 1,
+        "segmentdistance_miles": "3",
+        "segmentdistance_km": "4.8",
+        "distancetogo_miles": "23.2",
+        "distancetogo_km": "37.3",
+        "pace": "09:10 per mile",
+        "effort_level": "Steady",
+        "mental_focus": "Keep calm",
+        "extra_info": "The race begins in Hopkinton, a rural New England town. The initial miles are downhill through Ashland and into Framingham. Be cautious not to start too fast due to the downhill terrain.",
+        "image_url": ""
+      },
+      {
+        "segment": 2,
+        "segmentdistance_miles": "3",
+        "segmentdistance_km": "4.8",
+        "distancetogo_miles": "20.2",
+        "distancetogo_km": "32.5",
+        "pace": "09:09 per mile",
+        "effort_level": "Controlled",
+        "mental_focus": "Settle into rhythm",
+        "extra_info": "As you pass through Framingham and approach Natick, maintain your pace. The terrain is relatively flat here, allowing you to find a comfortable rhythm.",
+        "image_url": ""
+      },
+      {
+        "segment": 3,
+        "segmentdistance_miles": "3",
+        "segmentdistance_km": "4.8",
+        "distancetogo_miles": "17.2",
+        "distancetogo_km": "27.7",
+        "pace": "09:09 per mile",
+        "effort_level": "Comfortable",
+        "mental_focus": "Focus on efficiency",
+        "extra_info": "Approaching Wellesley, you'll encounter the 'Scream Tunnel' near Wellesley College at mile 12. The enthusiastic support can be energising, but stay focused on your pacing.",
+        "image_url": ""
+      },
+      {
+        "segment": 4,
+        "segmentdistance_miles": "3",
+        "segmentdistance_km": "4.8",
+        "distancetogo_miles": "14.2",
+        "distancetogo_km": "22.9",
+        "pace": "09:09 per mile",
+        "effort_level": "Consistent",
+        "mental_focus": "Check posture",
+        "extra_info": "After Wellesley, there's a significant downhill at mile 15. Use this opportunity to relax your muscles, but avoid overstriding.",
+        "image_url": ""
+      },
+      {
+        "segment": 5,
+        "segmentdistance_miles": "3",
+        "segmentdistance_km": "4.8",
+        "distancetogo_miles": "11.2",
+        "distancetogo_km": "18.1",
+        "pace": "09:08 per mile",
+        "effort_level": "Slightly Increased",
+        "mental_focus": "Stay relaxed",
+        "extra_info": "Entering Newton, prepare for the series of hills starting at mile 16. The first hill is a steep 1,200-yard climb. Maintain effort, not pace.",
+        "image_url": ""
+      },
+      {
+        "segment": 6,
+        "segmentdistance_miles": "3",
+        "segmentdistance_km": "4.8",
+        "distancetogo_miles": "8.2",
+        "distancetogo_km": "13.2",
+        "pace": "09:08 per mile",
+        "effort_level": "Sustained",
+        "mental_focus": "Prepare for mental challenges ahead. It's easy to forget, but steady breathing is key. Try breathing in a 2:1 ratio - in for 2 steps, out for 1",
+        "extra_info": "Continue through Newton, tackling the second (0.25-mile) and third (800-yard) hills. Focus on steady breathing and efficient strides.",
+        "image_url": ""
+      },
+      {
+        "segment": 7,
+        "segmentdistance_miles": "3",
+        "segmentdistance_km": "4.8",
+        "distancetogo_miles": "5.2",
+        "distancetogo_km": "8.4",
+        "pace": "09:07 per mile",
+        "effort_level": "Strong",
+        "mental_focus": "Push through fatigue",
+        "extra_info": "Approaching mile 20, you'll face 'Heartbreak Hill,' a 0.4-mile ascent. It's not the steepest, but its position in the race makes it challenging. Stay positive and keep your form.",
+        "image_url": ""
+      },
+      {
+        "segment": 8,
+        "segmentdistance_miles": "3",
+        "segmentdistance_km": "4.8",
+        "distancetogo_miles": "2.2",
+        "distancetogo_km": "3.6",
+        "pace": "09:05 per mile",
+        "effort_level": "Determined",
+        "mental_focus": "Stay focused",
+        "extra_info": "After conquering the Newton hills, the course trends downhill. Pass through Boston College and Cleveland Circle, using the crowd's energy to maintain momentum.",
+        "image_url": ""
+      },
+      {
+        "segment": 9,
+        "segmentdistance_miles": "2.2",
+        "segmentdistance_km": "3.6",
+        "distancetogo_miles": "0",
+        "distancetogo_km": "0",
+        "pace": "09:00 per mile",
+        "effort_level": "All-Out",
+        "mental_focus": "Finish strong",
+        "extra_info": "The final stretch takes you through Kenmore Square and onto Boylston Street. The finish line is in sight; give it your all and soak in the moment!",
+        "image_url": ""
+      }
+    ]
+  }
+  

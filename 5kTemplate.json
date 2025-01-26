@@ -1,0 +1,57 @@
+{
+    "target_time": "00:28:00",
+    "target_pace": "05:36 per kilometre",
+    "segments": [
+      {
+        "segment": 1,
+        "segmentdistance_km": "1",
+        "distancetogo_km": "4",
+        "pace": "05:40 per kilometre",
+        "effort_level": "Controlled",
+        "mental_focus": "Start steady, avoid going too fast",
+        "extra_info": "Keep breathing steady and calm",
+        "image_url": ""
+      },
+      {
+        "segment": 2,
+        "segmentdistance_km": "1",
+        "distancetogo_km": "3",
+        "pace": "05:36 per kilometre",
+        "effort_level": "Settled",
+        "mental_focus": "Find a comfortable rhythm",
+        "extra_info": "Check form and stay relaxed",
+        "image_url": ""
+      },
+      {
+        "segment": 3,
+        "segmentdistance_km": "1",
+        "distancetogo_km": "2",
+        "pace": "05:36 per kilometre",
+        "effort_level": "Steady",
+        "mental_focus": "Maintain pace and efficiency",
+        "extra_info": "Hydration reminder if needed",
+        "image_url": ""
+      },
+      {
+        "segment": 4,
+        "segmentdistance_km": "1",
+        "distancetogo_km": "1",
+        "pace": "05:30 per kilometre",
+        "effort_level": "Strong",
+        "mental_focus": "Push through fatigue",
+        "extra_info": "Stay focused on the finish",
+        "image_url": ""
+      },
+      {
+        "segment": 5,
+        "segmentdistance_km": "1",
+        "distancetogo_km": "0",
+        "pace": "05:20 per kilometre",
+        "effort_level": "All-Out",
+        "mental_focus": "Sprint to the finish",
+        "extra_info": "Enjoy the final push!",
+        "image_url": ""
+      }
+    ]
+  }
+  

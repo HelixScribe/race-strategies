@@ -1,0 +1,127 @@
+{
+    "target_time": "02:00:00",
+    "target_pace": "05:41 per kilometre",
+    "segments": [
+      {
+        "segment": 1,
+        "segmentdistance_miles": "1",
+        "distancetogo_miles": "12.1",
+        "pace": "05:45 per kilometre",
+        "effort_level": "Controlled",
+        "mental_focus": "Start easy, settle into a rhythm",
+        "extra_info": "Avoid early adrenaline rush",
+        "image_url": ""
+      },
+      {
+        "segment": 2,
+        "segmentdistance_miles": "1",
+        "distancetogo_miles": "11.1",
+        "pace": "05:41 per kilometre",
+        "effort_level": "Comfortable",
+        "mental_focus": "Focus on breathing and staying relaxed",
+        "extra_info": "Check form and cadence",
+        "image_url": ""
+      },
+      {
+        "segment": 3,
+        "segmentdistance_miles": "1",
+        "distancetogo_miles": "10.1",
+        "pace": "05:41 per kilometre",
+        "effort_level": "Steady",
+        "mental_focus": "Maintain consistent effort",
+        "extra_info": "Drink water if needed",
+        "image_url": ""
+      },
+      {
+        "segment": 4,
+        "segmentdistance_miles": "1",
+        "distancetogo_miles": "9.1",
+        "pace": "05:41 per kilometre",
+        "effort_level": "Controlled",
+        "mental_focus": "Stay focused and consistent",
+        "extra_info": "Avoid overthinking the distance",
+        "image_url": ""
+      },
+      {
+        "segment": 5,
+        "segmentdistance_miles": "1",
+        "distancetogo_miles": "8.1",
+        "pace": "05:41 per kilometre",
+        "effort_level": "Steady",
+        "mental_focus": "Focus on rhythm and posture",
+        "extra_info": "Take nutrition if needed",
+        "image_url": ""
+      },
+      {
+        "segment": 6,
+        "segmentdistance_miles": "1",
+        "distancetogo_miles": "7.1",
+        "pace": "05:41 per kilometre",
+        "effort_level": "Comfortable",
+        "mental_focus": "Stay relaxed, keep breathing steady",
+        "extra_info": "Check energy levels",
+        "image_url": ""
+      },
+      {
+        "segment": 7,
+        "segmentdistance_miles": "1",
+        "distancetogo_miles": "6.1",
+        "pace": "05:41 per kilometre",
+        "effort_level": "Controlled",
+        "mental_focus": "Maintain the plan",
+        "extra_info": "Hydrate at next station",
+        "image_url": ""
+      },
+      {
+        "segment": 8,
+        "segmentdistance_miles": "1",
+        "distancetogo_miles": "5.1",
+        "pace": "05:40 per kilometre",
+        "effort_level": "Slightly increased",
+        "mental_focus": "Start preparing mentally for the finish",
+        "extra_info": "Visualise finishing strong",
+        "image_url": ""
+      },
+      {
+        "segment": 9,
+        "segmentdistance_miles": "1",
+        "distancetogo_miles": "4.1",
+        "pace": "05:40 per kilometre",
+        "effort_level": "Focused",
+        "mental_focus": "Maintain a steady rhythm",
+        "extra_info": "Take one mile at a time",
+        "image_url": ""
+      },
+      {
+        "segment": 10,
+        "segmentdistance_miles": "1",
+        "distancetogo_miles": "3.1",
+        "pace": "05:40 per kilometre",
+        "effort_level": "Strong",
+        "mental_focus": "Push through fatigue",
+        "extra_info": "Keep a positive mindset",
+        "image_url": ""
+      },
+      {
+        "segment": 11,
+        "segmentdistance_miles": "3",
+        "distancetogo_miles": "0.1",
+        "pace": "05:35 per kilometre",
+        "effort_level": "Determined",
+        "mental_focus": "Push hard, focus on the finish",
+        "extra_info": "This is the final stretch",
+        "image_url": ""
+      },
+      {
+        "segment": 12,
+        "segmentdistance_miles": "0.1",
+        "distancetogo_miles": "0",
+        "pace": "05:30 per kilometre",
+        "effort_level": "All-Out",
+        "mental_focus": "Sprint to the finish",
+        "extra_info": "Enjoy the moment!",
+        "image_url": ""
+      }
+    ]
+  }
+  

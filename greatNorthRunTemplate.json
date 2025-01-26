@@ -1,0 +1,126 @@
+{
+    "target_time": "02:00:00",
+    "target_pace": "05:41 per kilometre",
+    "segments": [
+      {
+        "segment": 1,
+        "segmentdistance_miles": "1",
+        "distancetogo_miles": "12.1",
+        "pace": "05:45 per kilometre",
+        "effort_level": "Controlled",
+        "mental_focus": "Start easy, settle into a rhythm",
+        "extra_info": "The race begins on the A167 Central Motorway in Newcastle upon Tyne. Avoid early adrenaline rush; focus on finding your pace. High-five the enthusiastic kids cheering near the start line to boost morale.",
+        "image_url": ""
+      },
+      {
+        "segment": 2,
+        "segmentdistance_miles": "1",
+        "distancetogo_miles": "11.1",
+        "pace": "05:41 per kilometre",
+        "effort_level": "Comfortable",
+        "mental_focus": "Focus on breathing and staying relaxed",
+        "extra_info": "Cross the iconic Tyne Bridge into Gateshead, a memorable highlight with cheering crowds and potential flyovers from the Red Arrows. Take in the river views and enjoy the epic on-course entertainment.",
+        "image_url": ""
+      },
+      {
+        "segment": 3,
+        "segmentdistance_miles": "1",
+        "distancetogo_miles": "10.1",
+        "pace": "05:41 per kilometre",
+        "effort_level": "Steady",
+        "mental_focus": "Maintain consistent effort",
+        "extra_info": "Pass by the Gateshead International Stadium along the A184. Look out for live music and DJ trucks to keep energy high. Hydrate if needed, but only small sips to avoid discomfort.",
+        "image_url": ""
+      },
+      {
+        "segment": 4,
+        "segmentdistance_miles": "1",
+        "distancetogo_miles": "9.1",
+        "pace": "05:41 per kilometre",
+        "effort_level": "Controlled",
+        "mental_focus": "Stay focused and consistent",
+        "extra_info": "Continue on the A184 towards Heworth. Smile at the supportive crowds and appreciate the drag queens and rock choirs keeping spirits high. Keep your stride smooth and controlled.",
+        "image_url": ""
+      },
+      {
+        "segment": 5,
+        "segmentdistance_miles": "1",
+        "distancetogo_miles": "8.1",
+        "pace": "05:41 per kilometre",
+        "effort_level": "Steady",
+        "mental_focus": "Focus on rhythm and posture",
+        "extra_info": "Transition onto the A194 (Leam Lane) heading towards South Tyneside. Enjoy the party-like atmosphere as you approach the halfway mark. Take nutrition here if needed to maintain energy levels.",
+        "image_url": ""
+      },
+      {
+        "segment": 6,
+        "segmentdistance_miles": "1",
+        "distancetogo_miles": "7.1",
+        "pace": "05:41 per kilometre",
+        "effort_level": "Comfortable",
+        "mental_focus": "Stay relaxed, keep breathing steady",
+        "extra_info": "Approach the A19 interchange. Soak in the crowd energy and focus on keeping your breathing steady. This section is an opportunity to mentally recharge.",
+        "image_url": ""
+      },
+      {
+        "segment": 7,
+        "segmentdistance_miles": "1",
+        "distancetogo_miles": "6.1",
+        "pace": "05:41 per kilometre",
+        "effort_level": "Controlled",
+        "mental_focus": "Maintain the plan",
+        "extra_info": "Enter South Tyneside, passing Whiteleas and Centenary Avenue via the A1300. Hydrate at the next station and stick to your race strategy. Let the bands and cheering spectators keep your energy high.",
+        "image_url": ""
+      },
+      {
+        "segment": 8,
+        "segmentdistance_miles": "1",
+        "distancetogo_miles": "5.1",
+        "pace": "05:40 per kilometre",
+        "effort_level": "Slightly increased",
+        "mental_focus": "Start preparing mentally for the finish",
+        "extra_info": "Continue on the A1300, heading towards Marsden Lane. Visualise finishing strong and take advantage of the downhill sections. Smile for photographers along the route.",
+        "image_url": ""
+      },
+      {
+        "segment": 9,
+        "segmentdistance_miles": "1",
+        "distancetogo_miles": "4.1",
+        "pace": "05:40 per kilometre",
+        "effort_level": "Focused",
+        "mental_focus": "Maintain a steady rhythm",
+        "extra_info": "Transition onto the A183, with the North Sea coming into view. The sea breeze is refreshing and signals you’re nearing the finish. Focus on one mile at a time and maintain a steady effort.",
+        "image_url": ""
+      },
+      {
+        "segment": 10,
+        "segmentdistance_miles": "1",
+        "distancetogo_miles": "3.1",
+        "pace": "05:40 per kilometre",
+        "effort_level": "Strong",
+        "mental_focus": "Push through fatigue",
+        "extra_info": "Run along the seafront road towards South Shields. The atmosphere here is electric, with crowds lining the streets. Push through any fatigue and feed off the energy around you.",
+        "image_url": ""
+      },
+      {
+        "segment": 11,
+        "segmentdistance_miles": "3",
+        "distancetogo_miles": "0.1",
+        "pace": "05:35 per kilometre",
+        "effort_level": "Determined",
+        "mental_focus": "Push hard, focus on the finish",
+        "extra_info": "Approach the final stretch along the seafront. The AJ Bell victory bell awaits, along with a well-earned medal and goody bag. Crowd energy will carry you through the final push.",
+        "image_url": ""
+      },
+      {
+        "segment": 12,
+        "segmentdistance_miles": "0.1",
+        "distancetogo_miles": "0",
+        "pace": "05:30 per kilometre",
+        "effort_level": "All-Out",
+        "mental_focus": "Sprint to the finish",
+        "extra_info": "Cross the finish line in South Shields with the sea breeze on your face. Celebrate your achievement and soak in the community spirit of the Great North Run.",
+        "image_url": ""
+      }
+    ]
+}

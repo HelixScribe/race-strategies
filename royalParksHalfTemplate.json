@@ -1,0 +1,127 @@
+{
+    "target_time": "02:00:00",
+    "target_pace": "05:41 per kilometre",
+    "segments": [
+      {
+        "segment": 1,
+        "segmentdistance_miles": "1",
+        "distancetogo_miles": "12.1",
+        "pace": "05:45 per kilometre",
+        "effort_level": "Controlled",
+        "mental_focus": "Start easy, settle into a rhythm",
+        "extra_info": "The race begins in Hyde Park, offering scenic views of the Serpentine Lake. Avoid early adrenaline rush; focus on finding your pace.",
+        "image_url": ""
+      },
+      {
+        "segment": 2,
+        "segmentdistance_miles": "1",
+        "distancetogo_miles": "11.1",
+        "pace": "05:41 per kilometre",
+        "effort_level": "Comfortable",
+        "mental_focus": "Focus on breathing and staying relaxed",
+        "extra_info": "Proceed towards The Green Park, passing Wellington Arch. Check form and cadence as you enjoy the tree-lined paths.",
+        "image_url": ""
+      },
+      {
+        "segment": 3,
+        "segmentdistance_miles": "1",
+        "distancetogo_miles": "10.1",
+        "pace": "05:41 per kilometre",
+        "effort_level": "Steady",
+        "mental_focus": "Maintain consistent effort",
+        "extra_info": "Enter St James's Park, with views of Buckingham Palace. Drink water if needed and appreciate the park's beauty.",
+        "image_url": ""
+      },
+      {
+        "segment": 4,
+        "segmentdistance_miles": "1",
+        "distancetogo_miles": "9.1",
+        "pace": "05:41 per kilometre",
+        "effort_level": "Controlled",
+        "mental_focus": "Stay focused and consistent",
+        "extra_info": "Run along Horse Guards Road, passing the Horse Guards Parade. Avoid overthinking the distance; stay present.",
+        "image_url": ""
+      },
+      {
+        "segment": 5,
+        "segmentdistance_miles": "1",
+        "distancetogo_miles": "8.1",
+        "pace": "05:41 per kilometre",
+        "effort_level": "Steady",
+        "mental_focus": "Focus on rhythm and posture",
+        "extra_info": "Re-enter The Green Park, heading towards Hyde Park Corner. Take nutrition if needed and maintain good posture.",
+        "image_url": ""
+      },
+      {
+        "segment": 6,
+        "segmentdistance_miles": "1",
+        "distancetogo_miles": "7.1",
+        "pace": "05:41 per kilometre",
+        "effort_level": "Comfortable",
+        "mental_focus": "Stay relaxed, keep breathing steady",
+        "extra_info": "Move back into Hyde Park, enjoying the open spaces. Check energy levels and adjust pace if necessary.",
+        "image_url": ""
+      },
+      {
+        "segment": 7,
+        "segmentdistance_miles": "1",
+        "distancetogo_miles": "6.1",
+        "pace": "05:41 per kilometre",
+        "effort_level": "Controlled",
+        "mental_focus": "Maintain the plan",
+        "extra_info": "Pass by the Diana Memorial Fountain. Hydrate at the next station and stick to your race strategy.",
+        "image_url": ""
+      },
+      {
+        "segment": 8,
+        "segmentdistance_miles": "1",
+        "distancetogo_miles": "5.1",
+        "pace": "05:40 per kilometre",
+        "effort_level": "Slightly increased",
+        "mental_focus": "Start preparing mentally for the finish",
+        "extra_info": "Head towards Kensington Gardens, with sights of Kensington Palace. Visualise finishing strong as you slightly increase effort.",
+        "image_url": ""
+      },
+      {
+        "segment": 9,
+        "segmentdistance_miles": "1",
+        "distancetogo_miles": "4.1",
+        "pace": "05:40 per kilometre",
+        "effort_level": "Focused",
+        "mental_focus": "Maintain a steady rhythm",
+        "extra_info": "Navigate the paths of Kensington Gardens. Take one mile at a time, focusing on your rhythm.",
+        "image_url": ""
+      },
+      {
+        "segment": 10,
+        "segmentdistance_miles": "1",
+        "distancetogo_miles": "3.1",
+        "pace": "05:40 per kilometre",
+        "effort_level": "Strong",
+        "mental_focus": "Push through fatigue",
+        "extra_info": "Return to Hyde Park, approaching the final stages. Keep a positive mindset and push through any fatigue.",
+        "image_url": ""
+      },
+      {
+        "segment": 11,
+        "segmentdistance_miles": "3",
+        "distancetogo_miles": "0.1",
+        "pace": "05:35 per kilometre",
+        "effort_level": "Determined",
+        "mental_focus": "Push hard, focus on the finish",
+        "extra_info": "Circle the Serpentine Lake one last time. This is the final stretch; give it your all.",
+        "image_url": ""
+      },
+      {
+        "segment": 12,
+        "segmentdistance_miles": "0.1",
+        "distancetogo_miles": "0",
+        "pace": "05:30 per kilometre",
+        "effort_level": "All-Out",
+        "mental_focus": "Sprint to the finish",
+        "extra_info": "Approach the finish line near Hyde Park Corner. Enjoy the moment and celebrate your achievement!",
+        "image_url": ""
+      }
+    ]
+  }
+  

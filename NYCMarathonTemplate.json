@@ -1,0 +1,115 @@
+{
+    "target_time": "04:00:00",
+    "target_pace": "09:09 per mile",
+    "segments": [
+      {
+        "segment": 1,
+        "segmentdistance_miles": "3",
+        "segmentdistance_km": "4.8",
+        "distancetogo_miles": "23.2",
+        "distancetogo_km": "37.3",
+        "pace": "09:10 per mile",
+        "effort_level": "Steady",
+        "mental_focus": "Keep calm",
+        "extra_info": "The race begins at Fort Wadsworth on Staten Island, crossing the Verrazzano-Narrows Bridge into Brooklyn. The initial ascent can be challenging; maintain a steady pace and avoid early excitement.",
+        "image_url": ""
+      },
+      {
+        "segment": 2,
+        "segmentdistance_miles": "3",
+        "segmentdistance_km": "4.8",
+        "distancetogo_miles": "20.2",
+        "distancetogo_km": "32.5",
+        "pace": "09:09 per mile",
+        "effort_level": "Controlled",
+        "mental_focus": "Settle into rhythm",
+        "extra_info": "Running through Brooklyn's neighborhoods such as Bay Ridge and Sunset Park. Focus on establishing a comfortable rhythm and monitor your breathing.",
+        "image_url": ""
+      },
+      {
+        "segment": 3,
+        "segmentdistance_miles": "3",
+        "segmentdistance_km": "4.8",
+        "distancetogo_miles": "17.2",
+        "distancetogo_km": "27.7",
+        "pace": "09:09 per mile",
+        "effort_level": "Comfortable",
+        "mental_focus": "Focus on efficiency",
+        "extra_info": "Continuing through Brooklyn, passing areas like Park Slope and Bedford-Stuyvesant. Remember to hydrate and maintain efficient form.",
+        "image_url": ""
+      },
+      {
+        "segment": 4,
+        "segmentdistance_miles": "3",
+        "segmentdistance_km": "4.8",
+        "distancetogo_miles": "14.2",
+        "distancetogo_km": "22.9",
+        "pace": "09:09 per mile",
+        "effort_level": "Consistent",
+        "mental_focus": "Check posture",
+        "extra_info": "Approaching and crossing the Pulaski Bridge into Queens, marking the halfway point. Take nutrition if needed and assess your posture.",
+        "image_url": ""
+      },
+      {
+        "segment": 5,
+        "segmentdistance_miles": "3",
+        "segmentdistance_km": "4.8",
+        "distancetogo_miles": "11.2",
+        "distancetogo_km": "18.1",
+        "pace": "09:08 per mile",
+        "effort_level": "Slightly Increased",
+        "mental_focus": "Stay relaxed",
+        "extra_info": "Navigating through Queens, preparing for the Queensboro Bridge. Maintain hydration and stay relaxed.",
+        "image_url": ""
+      },
+      {
+        "segment": 6,
+        "segmentdistance_miles": "3",
+        "segmentdistance_km": "4.8",
+        "distancetogo_miles": "8.2",
+        "distancetogo_km": "13.2",
+        "pace": "09:08 per mile",
+        "effort_level": "Sustained",
+        "mental_focus": "Prepare for mental challenges",
+        "extra_info": "Crossing the Queensboro Bridge into Manhattan, heading north on First Avenue. Focus on steady breathing and prepare for mental challenges.",
+        "image_url": ""
+      },
+      {
+        "segment": 7,
+        "segmentdistance_miles": "3",
+        "segmentdistance_km": "4.8",
+        "distancetogo_miles": "5.2",
+        "distancetogo_km": "8.4",
+        "pace": "09:07 per mile",
+        "effort_level": "Strong",
+        "mental_focus": "Push through fatigue",
+        "extra_info": "Entering The Bronx via the Willis Avenue Bridge. Visualize the finish and push through any fatigue.",
+        "image_url": ""
+      },
+      {
+        "segment": 8,
+        "segmentdistance_miles": "3",
+        "segmentdistance_km": "4.8",
+        "distancetogo_miles": "2.2",
+        "distancetogo_km": "3.6",
+        "pace": "09:05 per mile",
+        "effort_level": "Determined",
+        "mental_focus": "Stay focused",
+        "extra_info": "Re-entering Manhattan through Harlem, moving down Fifth Avenue. Dig deep and stay focused.",
+        "image_url": ""
+      },
+      {
+        "segment": 9,
+        "segmentdistance_miles": "2.2",
+        "segmentdistance_km": "3.6",
+        "distancetogo_miles": "0",
+        "distancetogo_km": "0",
+        "pace": "09:00 per mile",
+        "effort_level": "All-Out",
+        "mental_focus": "Finish strong",
+        "extra_info": "Final stretch through Central Park, passing Columbus Circle to the finish line. Soak in the moment and finish strong!",
+        "image_url": ""
+      }
+    ]
+  }
+  
