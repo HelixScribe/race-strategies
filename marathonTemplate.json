@@ -10,8 +10,8 @@
       "distancetogo_km": "37.3",
       "pace": "09:10 per mile",
       "effort_level": "Steady",
-      "mental_focus": "Stay calm and controlled",
-      "extra_info": "Start easy and resist the urge to go out too fast. Get into a rhythm and remind yourself that the real challenge comes later. Begin fueling within the first 30 minutes to set yourself up for success.",
+      "mental_focus": "Keep calm",
+      "extra_info": "Watch out for early excitements. Begin fueling within the first 30-45 minutes, even if you don’t feel hungry yet. Hydrate at the first aid station (6-10 oz).",
       "image_url": ""
     },
     {
@@ -21,9 +21,9 @@
       "distancetogo_miles": "20.2",
       "distancetogo_km": "32.5",
       "pace": "09:09 per mile",
-      "effort_level": "Comfortable",
-      "mental_focus": "Find your rhythm",
-      "extra_info": "Relax your shoulders and check your form. Focus on smooth, efficient strides. Stay consistent with your fueling plan, but don’t overthink it—keep it simple and steady.",
+      "effort_level": "Controlled",
+      "mental_focus": "Settle into rhythm",
+      "extra_info": "Check breathing and form. Continue fueling every 20-40 minutes. Alternate fuel types, ensuring gels are taken with water, not sports drinks.",
       "image_url": ""
     },
     {
@@ -33,9 +33,9 @@
       "distancetogo_miles": "17.2",
       "distancetogo_km": "27.7",
       "pace": "09:09 per mile",
-      "effort_level": "Controlled",
-      "mental_focus": "Stay present",
-      "extra_info": "Set small goals, like reaching the next mile marker. Smile, it helps! Check in with your body—are your legs feeling strong? Are you still moving efficiently? Adjust as needed.",
+      "effort_level": "Comfortable",
+      "mental_focus": "Focus on efficiency",
+      "extra_info": "Hydration reminder: Take in fluids at every aid station. Monitor your body’s response to fueling and adjust if necessary.",
       "image_url": ""
     },
     {
@@ -46,8 +46,8 @@
       "distancetogo_km": "22.9",
       "pace": "09:09 per mile",
       "effort_level": "Consistent",
-      "mental_focus": "Stay strong and steady",
-      "extra_info": "This is where the miles can feel long—keep your posture upright and remind yourself of why you’re doing this. Break it down: one mile at a time.",
+      "mental_focus": "Check posture",
+      "extra_info": "Take nutrition if needed. Practice alternating fuel types to avoid digestive issues. Increase carbohydrate intake slightly as the race progresses.",
       "image_url": ""
     },
     {
@@ -57,9 +57,9 @@
       "distancetogo_miles": "11.2",
       "distancetogo_km": "18.1",
       "pace": "09:08 per mile",
-      "effort_level": "Building momentum",
-      "mental_focus": "Focus on control",
-      "extra_info": "You’re past the halfway mark—great work! If you’re feeling good, lean into it slightly, but don’t burn out too early. Trust the training you’ve done.",
+      "effort_level": "Slightly Increased",
+      "mental_focus": "Stay relaxed",
+      "extra_info": "Maintain hydration. Adjust fueling frequency to every 20-30 minutes if running faster or feeling depleted.",
       "image_url": ""
     },
     {
@@ -69,9 +69,9 @@
       "distancetogo_miles": "8.2",
       "distancetogo_km": "13.2",
       "pace": "09:08 per mile",
-      "effort_level": "Focused effort",
-      "mental_focus": "Prepare for the challenge ahead",
-      "extra_info": "You’re entering the tough part of the race—stay mentally tough. Use mantras or count your steps to stay focused. Stick to your pace and believe in your strength.",
+      "effort_level": "Sustained",
+      "mental_focus": "Prepare for mental challenges",
+      "extra_info": "Focus on steady breathing. Consume gels with water, and consider slightly increasing carbohydrate intake after the 3-hour mark.",
       "image_url": ""
     },
     {
@@ -81,9 +81,9 @@
       "distancetogo_miles": "5.2",
       "distancetogo_km": "8.4",
       "pace": "09:07 per mile",
-      "effort_level": "Determined",
-      "mental_focus": "Embrace the effort",
-      "extra_info": "This is the grind—acknowledge the fatigue but don’t let it control you. Visualise the finish line and remind yourself how far you’ve come. You’ve got this!",
+      "effort_level": "Strong",
+      "mental_focus": "Push through fatigue",
+      "extra_info": "Visualise the finish. Continue fueling as needed, but focus on hydration to prevent fatigue.",
       "image_url": ""
     },
     {
@@ -93,9 +93,9 @@
       "distancetogo_miles": "2.2",
       "distancetogo_km": "3.6",
       "pace": "09:05 per mile",
-      "effort_level": "Strong push",
-      "mental_focus": "Focus on the finish",
-      "extra_info": "You’re so close—dig deep and push. Use the energy from the crowd or imagine your loved ones cheering you on. This is your moment to shine.",
+      "effort_level": "Determined",
+      "mental_focus": "Stay focused",
+      "extra_info": "Dig deep. Stay hydrated, and use mental cues to keep pace. Avoid over-consuming carbohydrates this close to the end.",
       "image_url": ""
     },
     {
@@ -105,9 +105,9 @@
       "distancetogo_miles": "0",
       "distancetogo_km": "0",
       "pace": "09:00 per mile",
-      "effort_level": "All-out",
-      "mental_focus": "Finish with pride",
-      "extra_info": "The finish line is in sight—give it everything you have left! Savour this moment and celebrate your effort. You’ve earned it!",
+      "effort_level": "All-Out",
+      "mental_focus": "Finish strong",
+      "extra_info": "Soak in the moment! Focus on your effort, and ensure proper hydration at the finish line.",
       "image_url": ""
     }
   ]
