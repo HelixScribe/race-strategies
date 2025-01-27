@@ -9,7 +9,7 @@
         "pace": "05:45 per kilometre",
         "effort_level": "Controlled",
         "mental_focus": "Start easy, settle into a rhythm",
-        "extra_info": "The race begins in Hyde Park, offering scenic views of the Serpentine Lake. Avoid early adrenaline rush; focus on finding your pace.",
+        "extra_info": "The race begins in Hyde Park, offering scenic views of the Serpentine Lake. Avoid an early adrenaline rush; focus on finding your pace.",
         "image_url": ""
       },
       {
@@ -38,7 +38,7 @@
         "distancetogo_miles": "9.1",
         "pace": "05:41 per kilometre",
         "effort_level": "Controlled",
-        "mental_focus": "Stay focused and consistent",
+        "mental_focus": "Stay focused and consistent. Concrentrate on your pace - stick to the plan",
         "extra_info": "Run along Horse Guards Road, passing the Horse Guards Parade. Avoid overthinking the distance; stay present.",
         "image_url": ""
       },
@@ -58,7 +58,7 @@
         "distancetogo_miles": "7.1",
         "pace": "05:41 per kilometre",
         "effort_level": "Comfortable",
-        "mental_focus": "Stay relaxed, keep breathing steady",
+        "mental_focus": "Stay relaxed, keep breathing steady. Start counting your steps if things get tricky",
         "extra_info": "Move back into Hyde Park, enjoying the open spaces. Check energy levels and adjust pace if necessary.",
         "image_url": ""
       },
