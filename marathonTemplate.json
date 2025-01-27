@@ -11,7 +11,7 @@
       "pace": "09:10 per mile",
       "effort_level": "Steady",
       "mental_focus": "Keep calm",
-      "extra_info": "Watch out for early excitements. Begin fueling within the first 30-45 minutes, even if you don’t feel hungry yet. Hydrate at the first aid station (6-10 oz).",
+      "extra_info": "Watch out for early excitement. Begin fueling within the first 30-45 minutes, even if you don’t feel hungry or tired. Hydrate at the first aid station (6-10 oz).",
       "image_url": ""
     },
     {
@@ -34,8 +34,8 @@
       "distancetogo_km": "27.7",
       "pace": "09:09 per mile",
       "effort_level": "Comfortable",
-      "mental_focus": "Focus on efficiency",
-      "extra_info": "Hydration reminder: Take in fluids at every aid station. Monitor your body’s response to fueling and adjust if necessary.",
+      "mental_focus": "Focus on your running efficiency",
+      "extra_info": "Hydration reminder: Take in fluids before you get thirsty. Monitor your body’s response to fueling and adjust if necessary.",
       "image_url": ""
     },
     {
@@ -59,7 +59,7 @@
       "pace": "09:08 per mile",
       "effort_level": "Slightly Increased",
       "mental_focus": "Stay relaxed",
-      "extra_info": "Maintain hydration. Adjust fueling frequency to every 20-30 minutes if running faster or feeling depleted.",
+      "extra_info": "Maintain hydration. Adjust fueling frequency to every 20-30 minutes if you're running faster or feeling depleted.",
       "image_url": ""
     },
     {
@@ -83,7 +83,7 @@
       "pace": "09:07 per mile",
       "effort_level": "Strong",
       "mental_focus": "Push through fatigue",
-      "extra_info": "Visualise the finish. Continue fueling as needed, but focus on hydration to prevent fatigue.",
+      "extra_info": "Visualise the finish. Continue fueling as needed, but focus on hydration to reduce fatigue.",
       "image_url": ""
     },
     {
